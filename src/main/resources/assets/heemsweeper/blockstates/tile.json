@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "flagged=false": {
+      "model": "heemsweeper:block/tile"
+    },
+    "flagged=true": {
+      "model": "heemsweeper:block/tile_flagged"
+    }
+  }
+}
